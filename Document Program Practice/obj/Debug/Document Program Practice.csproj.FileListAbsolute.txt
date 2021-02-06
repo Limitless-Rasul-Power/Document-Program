@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\bin\Debug\Document Program Practice.exe.config
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\bin\Debug\Document Program Practice.exe
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\bin\Debug\Document Program Practice.pdb
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\obj\Debug\Document Program Practice.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\obj\Debug\Document Program Practice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\obj\Debug\Document Program Practice.exe
+C:\Users\Admin\source\repos\Document Program Practice\Document Program Practice\obj\Debug\Document Program Practice.pdb
